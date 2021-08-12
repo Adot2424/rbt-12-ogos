@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="|fRAthFk?K_o]g#T}//=" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="$xx{*T|}CDLNv0~DE;cn"><field name="i">IconNames.LeftTriangle</field></block></statement></block><block type="device_forever" id="AS80@brHlEmIco{{cr_M" x="210" y="162"><statement name="HANDLER"><block type="basic_show_icon" id="+yga_b3?:1c4b.ev/@Fx"><field name="i">IconNames.Square</field></block></statement></block><block type="device_show_leds" id="#l%qZBjqK9G,|,:s[2Q," disabled="true" x="275" y="321"><field name="LEDS">`
+        . . # . # 
+        # # # # . 
+        . # # # # 
+        # # . . . 
+        . . . . .
+        `</field><next><block type="device_print_message" id="%H#9%L=tZ?QU44Rt@MvR" disabled="true"><value name="text"><shadow type="text" id="3G7zkqKd6~6^Uef%j:;m" disabled="true"><field name="TEXT">IM ASYRAF</field></shadow></value><next><block type="device_show_number" id="Ql^N:qOefLG{wYKkMDK/" disabled="true"><value name="number"><shadow type="math_number" id="[tlTh`hPYT]hE1mH!j!$" disabled="true"><field name="NUM">22</field></shadow></value><next><block type="device_pause" id="nru}Fuvi_LFh_{Q*m)L^" disabled="true"><value name="pause"><shadow type="timePicker" id="l:mQ-b=4^eKp?Q%/OKoU" disabled="true"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></xml>
